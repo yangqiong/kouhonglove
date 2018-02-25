@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: rgba(208, 2, 2, 0.70);
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none; 
+}
+
+.container {
+    padding: 5%;
+    padding-top: 20px;
+}
+
+
+ul.brand li {
+    display: inline-block;
+    width: 25%;
+    padding: 1%;
+}
+
+ul.brand li img {
+    width: 100%;
+    border-radius: 1%;
+}
+
+@media screen and (max-width: 1000px){
+    .container {
+        padding: 1%;
+    }
+    ul.brand li {
+        width: 50%;
+    }
+}

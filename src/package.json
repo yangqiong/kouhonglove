@@ -1,0 +1,14 @@
+{
+  "name": "kouhonglove",
+  "version": "0.0.1",
+  "description": "kouhonglove项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leoqyang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
