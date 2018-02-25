@@ -1,0 +1,5 @@
+{
+    "name"        : "kouhonglove",
+    "script"      : "index.js",
+    "watch"       : true
+}
